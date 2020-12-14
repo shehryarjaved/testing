@@ -1,0 +1,58 @@
+body{
+    background-color: yellowgreen;
+}
+/* ul:hover{ 
+
+box-shadow:10px 10px 5px  darkgreen ;
+    border-radius: 10px;
+    border-style: solid;
+    border: 10px  ;
+color: chartreuse;
+    list-style-type: upper-roman;
+background-color:brown ;
+}
+li{
+    display: inline;
+} */
+/* table{
+    margin: 10px;
+    border-bottom: teal;
+    border: olivedrab;
+    border-style: solid;}
+tr,td{
+    margin: 10px;
+    text-transform: uppercase;
+text-align: center;
+} */
+div{
+    margin: 0px auto;
+    text-shadow:5px 5px 2px rgb(11, 11, 117) ;
+    border: 1px solid red;
+    background-color: teal;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+
+    position: relative;
+}
+h1{
+    text-shadow:5px 1px 2px rgb(11, 11, 117) ;
+    text-align: center;
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+}
+h1{
+
+    text-shadow:5px 1px 2px rgb(11, 11, 117) ;
+    text-align: center;
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+}h1{
+    text-shadow:5px 1px 2px rgb(11, 11, 117) ;
+    text-align: center;
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+}
